@@ -48498,6 +48498,8 @@ definitions:
         type: string
   PanGan21.loan.loan.MsgApproveLoanResponse:
     type: object
+  PanGan21.loan.loan.MsgLiquidateLoanResponse:
+    type: object
   PanGan21.loan.loan.MsgRepayLoanResponse:
     type: object
   PanGan21.loan.loan.MsgRequestLoanResponse:
