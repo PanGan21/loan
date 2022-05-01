@@ -44,8 +44,5 @@ func (k msgServer) LiquidateLoan(goCtx context.Context, msg *types.MsgLiquidateL
 
 	k.SetLoan(ctx, loan)
 
-	// TODO: Handling the message
-	_ = ctx
-
 	return &types.MsgLiquidateLoanResponse{}, nil
 }
