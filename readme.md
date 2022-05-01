@@ -28,12 +28,6 @@ loand tx loan approve-loan 0 --from alice -y
 loand query bank balances <alice_address>
 ```
 
-### Approve loan
-
-```
-loand tx loan approve-loan 0 --from alice -y
-```
-
 ### Repay loan
 
 ```
