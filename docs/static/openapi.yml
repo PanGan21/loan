@@ -48496,6 +48496,8 @@ definitions:
         type: string
       lender:
         type: string
+  PanGan21.loan.loan.MsgRequestLoanResponse:
+    type: object
   PanGan21.loan.loan.Params:
     type: object
     description: Params defines the parameters for the module.
